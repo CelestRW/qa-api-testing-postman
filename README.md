@@ -1,8 +1,8 @@
-# API Testing with Postman
+# API Testing with Postman (Sprint 4)
 
-This repository contains a collection of Postman tests built during my QA Bootcamp. It includes:
+**Status:** Evidence-only (Postman exports unavailable).  
+This repo documents my Sprint 4 API testing work for **Urban Grocers (Kits)** and **Fast Delivery (XML)**.  
+I designed and executed positive/negative test cases, recorded results, and produced reports.
 
-- POST and GET endpoint testing
-- JSON and XML request body samples
-- Use of environment variables
-- Positive and negative test case examples
+## What’s here
+- Repo structure ready for Postman collections and environments:
