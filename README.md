@@ -4,9 +4,6 @@
 This repo documents my Sprint 4 API testing work for **Urban Grocers (Kits)** and **Fast Delivery (XML)**.  
 I designed and executed positive/negative test cases, recorded results, and produced reports.
 
-## 🗂 Structure (for when I add exports later)
-
-
 ## 🧪 Coverage summary
 - **Kits**: `POST /api/v1/kits/:id/products`
   - Valid kit id vs non-existent kit id → 200 / 404
